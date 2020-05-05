@@ -2,7 +2,7 @@ baseurl: "https://covid19-data-forum.org"
 title: "COVID-19 Data Forum"
 canonifyurls: true
 theme: "covid19-data-forum"
-publishDir: docs
+publishDir: public
 
 GoogleAnalytics: ""
 
