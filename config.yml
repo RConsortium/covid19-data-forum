@@ -8,6 +8,7 @@ GoogleAnalytics: ""
 params:
   # Conference info
   Name: "COVID-19"
+  Subname: "Data Forum"
   Description: "Conference description"
   Date: "May 14 2020"
   Price: "" # If your event is free, just comment this line
