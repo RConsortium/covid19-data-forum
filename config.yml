@@ -44,17 +44,25 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Register now!"
-    link: "http://register.example.com"
+    #text: "Register now!"
+    #link: "http://register.example.com"
+    text: "More Information"
+    link: "mailto:covid-19-data-forum@r-consortium.org"
 
   # List of Sponsors
   Sponsors:
     - name: "R Consortium"
-      logo: "/img/RConsortium_Horizontal_Pantone.png"
+      logo: "/img/RConsortium_Horizontal_Pantone.svg"
       url: "https://www.r-consortium.org"
     - name: "Stanford Data Science Institute"
       logo: "/img/stanford_data_science_institute.png"
       url: "https://datascience.stanford.edu/"
+    - name: "Children's Hospital of Philadelphia"
+      logo: "/img/chop_web.svg"
+      url: "https://www.chop.edu/"
+    - name: "Yale School of Public Health"
+      logo: "/img/Yale_SOPH_web.svg"
+      url: "https://publichealth.yale.edu/"
 
   # List of Partners
   Partners:

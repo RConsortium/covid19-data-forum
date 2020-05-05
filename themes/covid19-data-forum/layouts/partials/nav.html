@@ -1,8 +1,8 @@
 <nav id="nav">
   <ul class="wrapper">
-    <li class="nav-item">
+    <!--<li class="nav-item">
       <a href="#">LOGO</a>
-    </li>
+    </li>-->
     {{ range $section := $.Site.Params.Sections }}
       <li class="nav-item">
         <a href="#{{ $section }}" target="_self" title="{{ index $.Site.Params.Titles $section }}" class="nav-link">
