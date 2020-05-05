@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://covid19-data-forum.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "COVID-19 Data Forum"
 theme = "covid19-data-forum"
+publishDir= "docs"
