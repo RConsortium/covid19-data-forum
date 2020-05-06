@@ -4,7 +4,7 @@ canonifyurls: true
 theme: "covid19-data-forum"
 publishDir: public
 
-GoogleAnalytics: ""
+GoogleAnalytics: "UA-165738921-1"
 
 params:
   # Conference info
@@ -17,7 +17,7 @@ params:
   Address: ""
   City:  "Virtual"
   State: "Online"
-  Images: ["/img/badge.jpg"]
+  Images: ["/img/RConsortium_Horizontal_Pantone.png"]
   GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
