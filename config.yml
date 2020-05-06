@@ -59,12 +59,6 @@ params:
     - name: "Stanford Data Science Institute"
       logo: "/img/stanford_data_science_institute.png"
       url: "https://datascience.stanford.edu/"
-    - name: "Children's Hospital of Philadelphia"
-      logo: "/img/chop_web.svg"
-      url: "https://www.chop.edu/"
-    - name: "Yale School of Public Health"
-      logo: "/img/Yale_SOPH_web.svg"
-      url: "https://publichealth.yale.edu/"
 
   # List of Partners
   Partners:
@@ -117,7 +111,7 @@ params:
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Linux Foundation"
       link:
-        href: "http://twitter.com/linus"
+        href: "https://twitter.com/linus"
         text: "@linus"
       presentation:
         title: "Digging into a Linux Kernel"
@@ -129,7 +123,7 @@ params:
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Microsoft"
       link:
-        href: "http://github.com/billy95"
+        href: "https://github.com/billy95"
         text: "@billy95"
       presentation:
         title: "Introducing Windows 12"
@@ -144,7 +138,7 @@ params:
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Delta Command"
       link:
-        href: "http://twitter.com/littlechuck"
+        href: "https://twitter.com/littlechuck"
         text: "@littlechuck"
       presentation:
         title: "How to kill a elephant with one finger"
@@ -156,7 +150,7 @@ params:
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Apple, Inc."
       link:
-        href: "http://github.com/stevie"
+        href: "https://github.com/stevie"
         text: "@stevie"
       presentation:
         title: "Presenting iPad"
