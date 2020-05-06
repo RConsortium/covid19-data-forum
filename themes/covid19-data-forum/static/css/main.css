@@ -793,6 +793,14 @@ nav {
   color: #fddd52;
   text-decoration: underline;
 }
+.info-box{
+  border: 1px solid #fddd52;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+}
 /* =============================================================================
    ABOUT
    ========================================================================== */
