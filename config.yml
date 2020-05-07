@@ -24,9 +24,9 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
+    - speakers
     #- location
     - agenda
-    - speakers
     #- schedule
     - sponsors
     #- partners
@@ -35,9 +35,9 @@ params:
   # Titles which you can translate to other languages
   Titles:
     about: "About"
+    speakers: "Speakers"
     #location: "Location"
     agenda: "Agenda"
-    speakers: "Speakers"
     #schedule: "Schedule"
     sponsors: "Sponsors"
     #partners: "Partners"
