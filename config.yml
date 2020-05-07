@@ -25,10 +25,10 @@ params:
   Sections:
     - about
     - speakers
-    #- location
-    - agenda
-    #- schedule
+    #- agenda
     - sponsors
+    #- location
+    #- schedule
     #- partners
     #- contact
 
@@ -37,7 +37,7 @@ params:
     about: "About"
     speakers: "Speakers"
     #location: "Location"
-    agenda: "Agenda"
+    #agenda: "Agenda"
     #schedule: "Schedule"
     sponsors: "Sponsors"
     #partners: "Partners"
