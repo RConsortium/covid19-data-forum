@@ -73,11 +73,11 @@ params:
   Speakers:
     - name: "Orhun Aydin"
       photo: "https://spe.org/media/filer_public_thumbnails/filer_public/71/67/716717e4-e7ba-4ab3-8eb6-a4dfd930fec5/orhun-aydin.jpg__205x192_q85_subsampling-2.jpg"
-      bio: "Researcher and Product Engineer"
+      bio: "Senior Researcher at ESRI and Lecturer at USC"
       company: "ESRI"
       link:
-        href: "https://www.linkedin.com/in/orhunaydin/"
-        text: "LinkedIn"
+        href: "https://spatial.usc.edu/team-view/orhun-aydin/"
+        text: "Website"
     - name: "Ryan Hafen"
       photo: "https://ryanhafen.com/img/hafen3.jpg"
       bio: "Data scientist consultant with Preva Group, and adjunct assistant professor, Purdue University"
