@@ -26,6 +26,7 @@ params:
     - about
     #- speakers
     #- agenda
+    - committee
     - sponsors
     #- location
     #- schedule
@@ -40,6 +41,7 @@ params:
     #agenda: "Agenda"
     #schedule: "Schedule"
     sponsors: "Sponsors"
+    committee: "Organizing Committee"
     #partners: "Partners"
     contact: "Contact"
 
@@ -59,6 +61,24 @@ params:
     - name: "Stanford Data Science Institute"
       logo: "/img/stanford_data_science_institute.png"
       url: "https://datascience.stanford.edu/"
+
+  # List of Committee members
+  Committee:
+    - name: "Joseph Rickert"
+      jobtitle: "Chair R Consortium Board of Directors"
+      url: "https://www.r-consortium.org"
+    - name: "John Chambers"
+      jobtitle: "Stanford Department of Statistics and Stanford Data Science"
+      url: "https://web.stanford.edu/~jmc4"
+    - name: "Michael Kane"
+      jobtitle: "Assistant Professor, Department of Biostatistics, Yale University"
+      url: "https://medicine.yale.edu/profile/michael_kane/"
+    - name: "Balasubramanian Narasimhan"
+      jobtitle: "Senior Research Scientist, Department of Biomedical Data Sciences, Stanford University"
+      url: "https://web.stanford.edu/~naras"
+    - name: "Chris Mentzel"
+      jobtitle: "Executive Director, Stanford Data Science"
+      url: "https://datascience.stanford.edu/people/chris-mentzel"
 
   # List of Partners
   Partners:
