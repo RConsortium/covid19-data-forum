@@ -89,9 +89,9 @@ params:
         collect and share detailed clinical and biological data from individuals with COVID-19.  The
         event will be open to the public, and is part of a continuing series focusing on
         data-related aspects of the scientific response to the pandemic.
-      register: https://register
-      agenda: https://agenda
-      sponsor: https://sponsor
+#      register: https://register
+#      agenda: https://agenda
+#      sponsor: https://sponsor
 
   # Past Events
   PastEvents:
