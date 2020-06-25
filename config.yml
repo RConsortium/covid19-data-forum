@@ -23,7 +23,7 @@ params:
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
   Sections:
-    - promo
+    #- promo
     - about
     - events
     - committee
@@ -63,9 +63,8 @@ params:
   # Promo box items
   Promo:
     - text: >
-        Interested in R and Medicine? Join us at the R/Medicine conference, August 27 - 29, 2020. »
-      actionText: "Learn more"
-      actionURL: "https://events.linuxfoundation.org/r-medicine/"
+        This is a promotion »
+      actionURL: "https://r-consortium.org/"
 
   # Upcoming Events
   UpcomingEvents:
