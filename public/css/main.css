@@ -443,6 +443,42 @@ nav {
   font-size: 1.4em;
 }
 /* =============================================================================
+   EVENTS
+   ========================================================================== */
+.events-tbl {
+  padding: 20px;
+}
+.events-tbl table {
+  border-collapse: collapse;
+  font-size: 1em;
+}
+.events-tbl td, 
+.events-tbl th {
+  position: relative;
+  padding: 20px 30px;
+  font-size: 1.4em;
+  line-height: 1.4em;
+  text-align: left;
+}
+.events-tbl th {
+  padding: 5px 30px;
+  color: #2b2b2b;
+  font-size: 2em;
+  font-weight: bolder;
+}
+.events-tbl .event-date {
+  width: 150px;
+  text-align: center;
+}
+.event-title {
+  width: 250px;
+  font-size: 16px;
+}
+.event-description {
+  display: block;
+  font-size: 12px;
+}
+/* =============================================================================
    SCHEDULE
    ========================================================================== */
 .schedule-tbl {

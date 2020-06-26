@@ -313,6 +313,22 @@ p {
   position: relative;
   top: -1px;
 }
+.content ul {
+  list-style: none;
+  font-size: 16px;
+  line-height: 1.6em;
+  margin-left: 0;
+  padding-left: 0;
+}
+.content .bulleted li {
+  padding: 0 0 1em 2em;
+  text-indent: -1em;
+}
+.content .bulleted li:before {
+  content: "»";
+  padding-right: 10px;
+}
+
 /* =============================================================================
    NAVIGATION
    ========================================================================== */
@@ -402,6 +418,31 @@ nav {
   transition: all 0.3s ease-out;
 }
 /* =============================================================================
+   PROMO
+   ========================================================================== */
+section.promo {
+  padding-top: 0px;
+  border: 1px solid #fddd52;
+  margin: 0px -20px 50px;
+  border-radius: 4px;
+  background-color: #2b2b2b;
+  font-size: 1.4em;
+}
+.promo .item p {
+  margin-bottom: 0px;
+}
+.promo .item a {
+  padding: 10px 19px;
+  text-decoration: none;
+  display: block;
+  height: 100%;
+}
+.promo .item a:hover {
+  text-decoration: none;
+  background-color: #1b1b1b;
+  border-radius: 4px;
+}
+/* =============================================================================
    ABOUT
    ========================================================================== */
 .about {
@@ -441,6 +482,61 @@ nav {
 }
 .speakers-item p {
   font-size: 1.4em;
+}
+/* =============================================================================
+   EVENTS
+   ========================================================================== */
+.events {
+}
+.events .intro {
+  padding-top: 20px;
+  font-style: italic;
+}
+.event {
+  padding: 40px 0px;
+}
+.event .title {
+  font-size: 2.8em;
+  font-weight: bold;
+  text-align: center;
+}
+.event .date-and-time {
+  padding: 20px 0px;
+}
+.event .date {
+  color: #333;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+.event .time {
+  color: #333;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+.event .description {
+}
+.event .actions {
+  text-align: center;
+  padding: 20px;
+}
+.event .actions a {
+  font-weight: bold;
+  margin: 0px 10px;
+  padding: 10px 15px;
+}
+.event .agenda {
+  padding: 10px 20px 0;
+}
+.event .agenda .affiliations li {
+  padding-bottom: 0px;
+}
+.event .agenda .affiliations li:before {
+  content: "-";
+  padding-right: 10px;
 }
 /* =============================================================================
    SCHEDULE
@@ -554,6 +650,9 @@ nav {
     -ms-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+  }
+  section.promo {
+    margin: 20px 0;
   }
   .about {
     margin: 0;
