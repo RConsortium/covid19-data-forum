@@ -11,7 +11,7 @@ params:
   Name: "COVID-19"
   Subname: "Data Forum"
   Description: "COVID-19 Data Forum: A series of multidisciplinary, online meetings for topic experts to focus on data-related aspects of the scientific response to the pandemic."
-  Date: "Next event: Wed July 16 @ 9:00am San Francisco"
+  Date: "Next event: Wed July 16 @ 16:00 UTC | 9am San Francisco"
   Price: "" # If your event is free, just comment this line
   Venue: "Virtual Online"
   Address: ""
