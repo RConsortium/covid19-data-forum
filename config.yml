@@ -11,7 +11,7 @@ params:
   Name: "COVID-19"
   Subname: "Data Forum"
   Description: "COVID-19 Data Forum: A series of multidisciplinary, online meetings for topic experts to focus on data-related aspects of the scientific response to the pandemic."
-  Date: "Next event: Wed July 16 @ 16:00 UTC | 9am San Francisco"
+  Date: "Next event: TBA"
   Price: "" # If your event is free, just comment this line
   Venue: "Virtual Online"
   Address: ""
@@ -69,8 +69,8 @@ params:
   # Upcoming Events
   UpcomingEvents:
     - title: "Beyond case counts: Making COVID-19 clinical data available and useful"
-      date: "Thursday, July 16, 2020"
-      time: "16:00 UTC | 9am San Francisco | 12pm New York | 5pm London | 6pm Paris | 12am Beijing"
+      date: "TBA"
+      time: "TBA"
       description: >
         COVID-19 is the first pandemic to occur in the age of open data. Public health agencies
         around the world are releasing case counts to the public, and scientists are providing
