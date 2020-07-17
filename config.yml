@@ -69,8 +69,8 @@ params:
   # Upcoming Events
   UpcomingEvents:
     - title: "Beyond case counts: Making COVID-19 clinical data available and useful"
-      date: "TBA"
-      time: "TBA"
+      date: "August 13, 2020"
+      time: "9:00 AM San Francisco | 16:00 UTC"
       description: >
         COVID-19 is the first pandemic to occur in the age of open data. Public health agencies
         around the world are releasing case counts to the public, and scientists are providing
