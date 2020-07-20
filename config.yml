@@ -88,8 +88,48 @@ params:
         collect and share detailed clinical and biological data from individuals with COVID-19.  The
         event will be open to the public, and is part of a continuing series focusing on
         data-related aspects of the scientific response to the pandemic.
-#      register: https://register
-#      agenda: https://agenda
+      agenda:
+        - talk: ""
+          speakerName: "Jenna Reps"
+          speakerURL: "https://www.ohdsi.org/who-we-are/collaborators/jenna-reps/"
+          affiliations:
+            - title: "Affiliate"
+              organizationName: "OHDSI consortium's patient-level prediction working group"
+              organizationURL: "https://www.ohdsi.org"
+            - title: "Member"
+              organizationName: "Jaansen R&D"
+              organizationURL: "https://www.jnj.com/tag/janssen-research-development"
+        - talk: ""
+          speakerName: "Andrea Ganna"
+          speakerURL: "http://www.atgu.mgh.harvard.edu/people/andrea-ganna/"
+          affiliations:
+            - title: "Affiliate"
+              organizationName: "COVID-19 Host Genetics Initiative"
+              organizationURL: "https://www.ohdsi.org"
+            - title: "Group Leader"
+              organizationName: "Genetic Epidemiology Lab"
+              organizationURL: "https://www.dsgelab.org/"
+        - talk: ""
+          speakerName: "Ken Massey"
+          speakerURL: ""
+          affiliations:
+            - title: "Affiliate"
+              organizationName: "EndPandemic National Data Consortium"
+              organizationURL: "https://endpandemic.org"
+            - title: "Chief Life Sciences Officer"
+              organizationName: "Saama Technologies"
+              organizationURL: "https://www.saama.com"
+        - talk: ""
+          speakerName: "Ryan Tibshirani"
+          speakerURL: "https://www.stat.cmu.edu/~ryantibs/"
+          affiliations:
+            - title: "Lead Researcher"
+              organizationName: "Delphi Covid-19 Response Team"
+              organizationURL: "https://delphi.cmu.edu"
+            - title: "Associate Professor"
+              organizationName: "Department of Statistics, Carnegie Mellon University"
+              organizationURL: "https://www.stat.cmu.edu"
+              
 #      sponsor: https://sponsor
 
   # Past Events
