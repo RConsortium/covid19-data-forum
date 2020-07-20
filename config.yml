@@ -54,8 +54,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    #text: "Register now!"
-    #link: "http://register.example.com"
+    text: "Register now!"
+    link: "https://stanford.zoom.us/webinar/register/WN_50bLGIAWS6qNjrwPFUpyvA"
     text: "More Information"
     link: "mailto:covid-19-data-forum@r-consortium.org"
 
