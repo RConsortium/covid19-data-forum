@@ -70,6 +70,7 @@ params:
     - title: "Beyond case counts: Making COVID-19 clinical data available and useful"
       date: "August 13, 2020"
       time: "9:00 AM San Francisco | 16:00 UTC"
+      register: "https://stanford.zoom.us/webinar/register/WN_50bLGIAWS6qNjrwPFUpyvA"
       description: >
         COVID-19 is the first pandemic to occur in the age of open data. Public health agencies
         around the world are releasing case counts to the public, and scientists are providing
@@ -128,7 +129,7 @@ params:
             - title: "Associate Professor"
               organizationName: "Department of Statistics, Carnegie Mellon University"
               organizationURL: "https://www.stat.cmu.edu"
-              
+
 #      sponsor: https://sponsor
 
   # Past Events
