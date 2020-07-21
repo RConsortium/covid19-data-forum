@@ -11,7 +11,7 @@ params:
   Name: "COVID-19"
   Subname: "Data Forum"
   Description: "COVID-19 Data Forum: A series of multidisciplinary, online meetings for topic experts to focus on data-related aspects of the scientific response to the pandemic."
-  Date: "Next event: Making COVID-19 clinical data available and useful - Aug 13, 2020 - 9am PDT"
+  Date: "Upcoming event: Making COVID-19 clinical data available and useful - Aug 13, 2020 - 9am PDT"
   Price: "" # If your event is free, just comment this line
   Venue: "Virtual Online"
   Address: ""
@@ -54,10 +54,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    #text: "Register now!"
-    #link: "http://register.example.com"
-    text: "More Information"
-    link: "mailto:covid-19-data-forum@r-consortium.org"
+    text: "Register now!"
+    link: "https://stanford.zoom.us/webinar/register/WN_50bLGIAWS6qNjrwPFUpyvA"
 
 
   # Promo box items
