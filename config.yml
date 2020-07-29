@@ -89,6 +89,13 @@ params:
         event will be open to the public, and is part of a continuing series focusing on
         data-related aspects of the scientific response to the pandemic.
       agenda:
+        - talk: "Moderator"
+          speakerName: "Sherri Rose"
+          speakerURL: "http://drsherrirose.org"
+          affiliations:
+            - title: "Associate Professor"
+              organizationName: "Stanford Health Policy"
+              organizationURL: "https://healthpolicy.fsi.stanford.edu/"
         - talk: ""
           speakerName: "Jenna Reps"
           speakerURL: "https://www.ohdsi.org/who-we-are/collaborators/jenna-reps/"
