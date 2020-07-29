@@ -104,7 +104,7 @@ params:
               organizationName: "OHDSI consortium's patient-level prediction working group"
               organizationURL: "https://www.ohdsi.org"
             - title: "Member"
-              organizationName: "Jaansen R&D"
+              organizationName: "Janssen R&D"
               organizationURL: "https://www.jnj.com/tag/janssen-research-development"
         - talk: ""
           speakerName: "Andrea Ganna"
@@ -118,7 +118,7 @@ params:
               organizationURL: "https://www.dsgelab.org/"
         - talk: ""
           speakerName: "Ken Massey"
-          speakerURL: ""
+          speakerURL: "https://theorg.com/org/saama/team/ken-massey"
           affiliations:
             - title: "Affiliate"
               organizationName: "EndPandemic National Data Consortium"
@@ -128,14 +128,14 @@ params:
               organizationURL: "https://www.saama.com"
         - talk: ""
           speakerName: "Ryan Tibshirani"
-          speakerURL: "https://www.stat.cmu.edu/~ryantibs/"
+          speakerURL: "http://www.stat.cmu.edu/~ryantibs/"
           affiliations:
             - title: "Lead Researcher"
               organizationName: "Delphi Covid-19 Response Team"
               organizationURL: "https://delphi.cmu.edu"
             - title: "Associate Professor"
               organizationName: "Department of Statistics, Carnegie Mellon University"
-              organizationURL: "https://www.stat.cmu.edu"
+              organizationURL: "http://www.stat.cmu.edu"
 
 #      sponsor: https://sponsor
 
