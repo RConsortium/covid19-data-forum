@@ -127,15 +127,15 @@ params:
               organizationName: "Saama Technologies"
               organizationURL: "https://www.saama.com"
         - talk: ""
-          speakerName: "Ryan Tibshirani"
-          speakerURL: "http://www.stat.cmu.edu/~ryantibs/"
+          speakerName: "Roni Rosenfeld"
+          speakerURL: "http://www.stat.cmu.edu/~roni/"
           affiliations:
             - title: "Lead Researcher"
               organizationName: "Delphi Covid-19 Response Team"
               organizationURL: "https://delphi.cmu.edu"
-            - title: "Associate Professor"
-              organizationName: "Department of Statistics, Carnegie Mellon University"
-              organizationURL: "http://www.stat.cmu.edu"
+            - title: "Professor and Head, Machine Learning Department"
+              organizationName: "School of Computer Science, Carnegie Mellon University"
+              organizationURL: "http://www.cs.cmu.edu"
 
 #      sponsor: https://sponsor
 
