@@ -112,7 +112,7 @@ params:
           affiliations:
             - title: "Affiliate"
               organizationName: "COVID-19 Host Genetics Initiative"
-              organizationURL: "https://www.ohdsi.org"
+              organizationURL: "https://covid19hg.org"
             - title: "Group Leader"
               organizationName: "Genetic Epidemiology Lab"
               organizationURL: "https://www.dsgelab.org/"
