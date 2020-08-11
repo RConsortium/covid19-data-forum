@@ -128,7 +128,7 @@ params:
               organizationURL: "https://www.saama.com"
         - talk: ""
           speakerName: "Roni Rosenfeld"
-          speakerURL: "http://www.stat.cmu.edu/~roni/"
+          speakerURL: "http://www.cs.cmu.edu/~roni/"
           affiliations:
             - title: "Lead Researcher"
               organizationName: "Delphi Covid-19 Response Team"
