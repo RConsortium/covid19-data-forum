@@ -120,9 +120,6 @@ params:
           speakerName: "Ken Massey"
           speakerURL: "https://theorg.com/org/saama/team/ken-massey"
           affiliations:
-            - title: "Affiliate"
-              organizationName: "EndPandemic National Data Consortium"
-              organizationURL: "https://endpandemic.org"
             - title: "Chief Life Sciences Officer"
               organizationName: "Saama Technologies"
               organizationURL: "https://www.saama.com"
