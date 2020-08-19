@@ -11,7 +11,7 @@ params:
   Name: "COVID-19"
   Subname: "Data Forum"
   Description: "COVID-19 Data Forum: A series of multidisciplinary, online meetings for topic experts to focus on data-related aspects of the scientific response to the pandemic."
-  Date: "Upcoming event: Making COVID-19 clinical data available and useful - Aug 13, 2020 - 9am PDT"
+  Date: "Next event: To be announced."
   Price: "" # If your event is free, just comment this line
   Venue: "Virtual Online"
   Address: ""
@@ -53,9 +53,9 @@ params:
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
-  CallToAction:
-    text: "Register now!"
-    link: "https://stanford.zoom.us/webinar/register/WN_50bLGIAWS6qNjrwPFUpyvA"
+  # CallToAction:
+  #  text: "Register now!"
+  #  link: "https://stanford.zoom.us/webinar/register/WN_50bLGIAWS6qNjrwPFUpyvA"
   #  text: "More Information"
   #  link: "mailto:covid-19-data-forum@r-consortium.org"
 
@@ -66,11 +66,20 @@ params:
       actionURL: "https://r-consortium.org/"
 
   # Upcoming Events
-  UpcomingEvents:
+  # UpcomingEvents:
+  #  - title: "TBA"
+  #    date: "TBA"
+  #    time: "TBA"
+  #    register: "https://stanford.zoom.us/webinar/register/WN_50bLGIAWS6qNjrwPFUpyvA"
+  #    description: >
+
+  #      sponsor: https://sponsor
+
+  # Past Events
+  PastEvents:
     - title: "Beyond case counts: Making COVID-19 clinical data available and useful"
       date: "August 13, 2020"
       time: "9:00 AM San Francisco | 16:00 UTC"
-      register: "https://stanford.zoom.us/webinar/register/WN_50bLGIAWS6qNjrwPFUpyvA"
       description: >
         COVID-19 is the first pandemic to occur in the age of open data. Public health agencies
         around the world are releasing case counts to the public, and scientists are providing
@@ -133,11 +142,7 @@ params:
             - title: "Professor and Head, Machine Learning Department"
               organizationName: "School of Computer Science, Carnegie Mellon University"
               organizationURL: "http://www.cs.cmu.edu"
-
-#      sponsor: https://sponsor
-
-  # Past Events
-  PastEvents:
+    ## Next event          
     - title: "Introducing the COVID-19 Data Forum"
       date: "Thursday, May 14, 2020"
       time: "19:00 UTC | 12pm PDT | 3pm EDT | 8pm London | 9pm Paris | 3am Beijing"
