@@ -98,6 +98,14 @@ params:
         event will be open to the public, and is part of a continuing series focusing on
         data-related aspects of the scientific response to the pandemic.
       agenda:
+        - talk: "Welcome and opening remarks"
+          speakerName: "Joseph Rickert"
+          speakerURL: "https://rstudio.com/speakers/joseph-rickert/"
+          affiliations:
+            - title: "Chair R Consortium Board of Directors"
+              organizationName: "R Consortium"
+              organizationURL: "https://r-consortium.org"
+          replay: "https://youtu.be/mEsDzwIMDz8?t=3"
         - talk: "Moderator"
           speakerName: "Sherri Rose"
           speakerURL: "http://drsherrirose.org"
@@ -105,6 +113,7 @@ params:
             - title: "Associate Professor"
               organizationName: "Stanford Health Policy"
               organizationURL: "https://healthpolicy.fsi.stanford.edu/"
+          replay: "https://youtu.be/mEsDzwIMDz8?t=119"
         - talk: ""
           speakerName: "Jenna Reps"
           speakerURL: "https://www.ohdsi.org/who-we-are/collaborators/jenna-reps/"
@@ -115,6 +124,7 @@ params:
             - title: "Member"
               organizationName: "Janssen R&D"
               organizationURL: "https://www.jnj.com/tag/janssen-research-development"
+          replay: "https://youtu.be/mEsDzwIMDz8?t=167"
         - talk: ""
           speakerName: "Andrea Ganna"
           speakerURL: "http://www.atgu.mgh.harvard.edu/people/andrea-ganna/"
@@ -125,6 +135,7 @@ params:
             - title: "Group Leader"
               organizationName: "Genetic Epidemiology Lab"
               organizationURL: "https://www.dsgelab.org/"
+          replay: "https://youtu.be/mEsDzwIMDz8?t=1211"
         - talk: ""
           speakerName: "Ken Massey"
           speakerURL: "https://theorg.com/org/saama/team/ken-massey"
@@ -132,6 +143,7 @@ params:
             - title: "Chief Life Sciences Officer"
               organizationName: "Saama Technologies"
               organizationURL: "https://www.saama.com"
+          replay: "https://youtu.be/mEsDzwIMDz8?t=2270"
         - talk: ""
           speakerName: "Roni Rosenfeld"
           speakerURL: "http://www.cs.cmu.edu/~roni/"
@@ -142,7 +154,10 @@ params:
             - title: "Professor and Head, Machine Learning Department"
               organizationName: "School of Computer Science, Carnegie Mellon University"
               organizationURL: "http://www.cs.cmu.edu"
-    ## Next event          
+          replay: "https://youtu.be/mEsDzwIMDz8?t=3341"
+        - talk: ""
+          speakerName: "Panel discussion"
+          replay: "https://youtu.be/mEsDzwIMDz8?t=4414"
     - title: "Introducing the COVID-19 Data Forum"
       date: "Thursday, May 14, 2020"
       time: "19:00 UTC | 12pm PDT | 3pm EDT | 8pm London | 9pm Paris | 3am Beijing"
